@@ -2,9 +2,9 @@
 
 I work as System Integrator Dept Head at one of main dealer motorcycle Honda at Indonesia - Jawa Timur
 
-🌱 I’m currently learning for GO
-💬 Ask me about anything related to Python/NodeJS or Flask
-📫 How to reach me: sulianto.suhono@gmail.com
+- 🌱 I’m currently learning for GO
+- 💬 Ask me about anything related to Python/NodeJS or Flask
+- 📫 How to reach me: sulianto.suhono@gmail.com
 
 
 <!--
