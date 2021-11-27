@@ -2,6 +2,11 @@
 
 I work as System Integrator Dept Head at one of main dealer motorcycle Honda at Indonesia - Jawa Timur
 
+🌱 I’m currently learning for GO
+💬 Ask me about anything related to Python/NodeJS or Flask
+📫 How to reach me: sulianto.suhono@gmail.com
+
+
 <!--
 **sluvie/sluvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
