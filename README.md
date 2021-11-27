@@ -2,7 +2,7 @@
 
 I work as System Integrator Dept Head at one of main dealer motorcycle Honda at Indonesia - Jawa Timur
 
-- 🌱 I’m currently learning for GO
+- 🌱 I’m currently learning for GO, BlockChain
 - 💬 Ask me about anything related to Python/NodeJS or Flask
 - 📫 How to reach me: sulianto.suhono@gmail.com
 
