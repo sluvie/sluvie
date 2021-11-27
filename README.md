@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Sulianto
+
+I work as System Integrator Dept Head at one of main dealer motorcycle Honda at Indonesia - Jawa Timur
 
 <!--
 **sluvie/sluvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
